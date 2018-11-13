@@ -2,7 +2,8 @@
     background-color: rgb(0,140,204);
 }
 .img-logo{
-    width: 150px;
+    height:  80px;
+    padding-left: 40px;
 }
 .bg-pills{
     background-color: rgb(18, 168, 238);
@@ -24,7 +25,7 @@
     margin-top: 140px;
 }
 .bg-darkl{
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.3);
 }
 
 
