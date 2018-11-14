@@ -30,6 +30,9 @@
 #lucas{
     width: 100%;
 }
+#lucas-2{
+    width: 60%;
+}
 .rrss{
     height: 3em;
 }
@@ -39,7 +42,6 @@
     }
     .nav-item-sm{
         display: inline;
-        float: left;
     }
     .navbar-nav{
         display: inline;
