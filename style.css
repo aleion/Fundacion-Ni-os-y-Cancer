@@ -33,5 +33,22 @@
 .rrss{
     height: 3em;
 }
+@media (max-width: 400px){
+    .img-logo{
+        height: 60px;
+    }
+    .nav-item-sm{
+        display: inline;
+        float: left;
+    }
+    .navbar-nav{
+        display: inline;
+    }
+    .btn-rsp{
+        width: auto;
+        padding:0;
+        font-size: .8em;
+    }
+}
 
 
