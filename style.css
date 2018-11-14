@@ -55,12 +55,23 @@ body{
     height: 400px;
 }
 
+.nos-fondo2{
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.568), rgba(165, 165, 165, 0)) ,url(img/nosotros3.jpeg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+}
+
 .card-trans{
     opacity: .7;
 }
 
 #funda-logo{
-    width: 90%;
+    width: 300px;
+}
+#funda-logo-2{
+    width: 400px;
 }
 
 @media (max-width: 400px){
@@ -77,6 +88,13 @@ body{
         width: auto;
         padding:0;
         font-size: .8em;
+    }
+    
+}
+
+@media (max-width :750px){
+    .nos-fondo1{
+        background-position: right;
     }
 }
 
