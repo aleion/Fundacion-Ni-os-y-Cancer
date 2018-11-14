@@ -18,8 +18,12 @@
     background-color: rgba(0,0,0, .1);
    
 }
+.th-im{
+    object-position: center;
+    object-fit: none;
+}
 .banner{
-    height: 35em;
+    height: 30em;
 }
 .cont-1{
     margin-top: 10px;
