@@ -36,6 +36,33 @@
 .rrss{
     height: 3em;
 }
+
+
+/* NOSOTROS */
+body{
+    margin:0;
+    padding: 0; 
+}
+.jumbo-nos{
+    padding: 0;
+    margin: 0;
+}
+.nos-fondo1{
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.568), rgba(165, 165, 165, 0)) ,url(img/nosotros1.png);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+}
+
+.card-trans{
+    opacity: .7;
+}
+
+#funda-logo{
+    width: 90%;
+}
+
 @media (max-width: 400px){
     .img-logo{
         height: 60px;
