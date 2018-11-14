@@ -52,7 +52,7 @@ body{
     margin: 0;
 }
 .nos-fondo1{
-    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.568), rgba(165, 165, 165, 0)) ,url(img/nosotros1.png);
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.568), rgba(165, 165, 165, 0)) ,url(Img/nosotros1.png);
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -60,7 +60,7 @@ body{
 }
 
 .nos-fondo2{
-    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.568), rgba(165, 165, 165, 0)) ,url(img/nosotros3.jpeg);
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.568), rgba(165, 165, 165, 0)) ,url(Img/nosotros3.jpeg);
     background-size: cover;
     background-position: center;
     width: 100%;
