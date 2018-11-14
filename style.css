@@ -91,11 +91,18 @@ body{
     }
     
 }
-
+.text-muted{
+    font-size: .8em;
+}
 @media (max-width :750px){
     .nos-fondo1{
         background-position: right;
     }
+}
+.news-img{
+    width: 100%;
+    height: 100%;
+    
 }
 
 
